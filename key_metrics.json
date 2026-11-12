@@ -1,0 +1,194 @@
+{
+  "kpi": {
+    "revenue": 44414256.0,
+    "gross_profit": 15113543.2,
+    "margin_pct": 34.0285857766029,
+    "orders": 13999,
+    "buyers": 4167,
+    "aov": 3172.6734766769055,
+    "units": 35892,
+    "ytd_2025": 12646547.0,
+    "ytd_2026": 23386889.5,
+    "yoy_growth_pct": 84.927075351082
+  },
+  "festive": {
+    "margin_festive": 26.624933468329814,
+    "margin_rest": 35.01306444229866,
+    "margin_drop_pts": 8.388130973968849,
+    "avg_discount_festive": 19.584654407102093,
+    "avg_discount_rest": 9.30199063834165,
+    "revenue_festive_2m": 5410017.5,
+    "gp_festive_2m": 1440413.56,
+    "orders_change_vs_sep_pct": 38.897058823529406,
+    "revenue_change_vs_sep_pct": 26.310968192619644,
+    "gp_change_vs_sep_pct": -4.70293848805926
+  },
+  "category": {
+    "top_revenue": "Electronics",
+    "top_revenue_share": 26.141572651808016,
+    "top_margin": "Beauty",
+    "top_margin_val": 50.16965850527537,
+    "low_margin": "Grocery",
+    "low_margin_val": 16.15025327704336,
+    "electronics_margin": 19.828916458559153,
+    "electronics_share": 26.141572651808016
+  },
+  "discount": {
+    "margin_by_band": {
+      "0%": 40.82688702988859,
+      "5\u201310%": 36.13410958471129,
+      "15\u201320%": 28.419145101308835,
+      "25\u201330%": 17.357988894419307,
+      "35%+": 6.104354293073582
+    },
+    "loss_lines": 633,
+    "loss_amount": -36923.95,
+    "heavy_share_of_lines_pct": 8.96137339055794,
+    "heavy_share_of_revenue_pct": 7.105374004238639,
+    "heavy_loss_lines_pct": 30.316091954022987
+  },
+  "pareto": {
+    "top10_pct": 39.93111468533887,
+    "top20_pct": 59.79612604565525,
+    "bottom50_pct": 11.433706105535123
+  },
+  "rfm": {
+    "Champions": {
+      "customers": 685,
+      "customer_pct": 16.438684905207584,
+      "revenue_pct": 40.10432371083735,
+      "avg_spend": 26002.973722627736,
+      "avg_recency_days": 39.91970802919708
+    },
+    "Loyal": {
+      "customers": 549,
+      "customer_pct": 13.174946004319654,
+      "revenue_pct": 19.314288412261146,
+      "avg_spend": 15625.314207650274,
+      "avg_recency_days": 135.5719489981785
+    },
+    "New / Promising": {
+      "customers": 795,
+      "customer_pct": 19.07847372210223,
+      "revenue_pct": 7.795737927029555,
+      "avg_spend": 4355.2440251572325,
+      "avg_recency_days": 52.26289308176101
+    },
+    "Needs Attention": {
+      "customers": 471,
+      "customer_pct": 11.303095752339813,
+      "revenue_pct": 4.650396485308681,
+      "avg_spend": 4385.2208067940555,
+      "avg_recency_days": 184.41613588110403
+    },
+    "At Risk": {
+      "customers": 481,
+      "customer_pct": 11.54307655387569,
+      "revenue_pct": 17.01178108218226,
+      "avg_spend": 15708.224532224533,
+      "avg_recency_days": 357.3617463617464
+    },
+    "Hibernating": {
+      "customers": 1186,
+      "customer_pct": 28.461723062155027,
+      "revenue_pct": 11.123472382381008,
+      "avg_spend": 4165.60497470489,
+      "avg_recency_days": 429.4384485666105
+    },
+    "at_risk_historic_revenue": 7555656.0
+  },
+  "cohort": {
+    "m1": 27.87298387096774,
+    "m3": 22.203532380151387,
+    "m6": 15.907545887151597,
+    "cohorts_used": 21
+  },
+  "leakage": {
+    "cancelled_rev": 4210240.5,
+    "returned_rev": 4173417.5,
+    "leak_pct_of_booked": 15.878767483124427,
+    "cod_cancel_pct": 14.56592807845986,
+    "other_cancel_pct": 6.577353920678171,
+    "cod_excess_orders": 219.92544656372993,
+    "cod_excess_rev": 667388.1732893395,
+    "cod_share_of_orders_pct": 16.55242905242905,
+    "return_rate_pct": 7.834295334295334,
+    "cancel_rate_pct": 7.9966329966329965
+  },
+  "channel": {
+    "best": "Organic Search",
+    "worst": "Social Media",
+    "spread_pct": 9.273964832671577,
+    "table": [
+      {
+        "acquisition_channel": "Organic Search",
+        "customers_acquired": 1647,
+        "conversion_pct": 69.6,
+        "revenue_per_acquired_customer": 7706.0
+      },
+      {
+        "acquisition_channel": "Direct",
+        "customers_acquired": 560,
+        "conversion_pct": 70.0,
+        "revenue_per_acquired_customer": 7584.0
+      },
+      {
+        "acquisition_channel": "Referral",
+        "customers_acquired": 675,
+        "conversion_pct": 69.0,
+        "revenue_per_acquired_customer": 7326.0
+      },
+      {
+        "acquisition_channel": "Paid Ads",
+        "customers_acquired": 1500,
+        "conversion_pct": 69.1,
+        "revenue_per_acquired_customer": 7282.0
+      },
+      {
+        "acquisition_channel": "Email",
+        "customers_acquired": 406,
+        "conversion_pct": 68.0,
+        "revenue_per_acquired_customer": 7236.0
+      },
+      {
+        "acquisition_channel": "Social Media",
+        "customers_acquired": 1104,
+        "conversion_pct": 70.1,
+        "revenue_per_acquired_customer": 7052.0
+      }
+    ]
+  },
+  "top_cities": [
+    {
+      "city": "Bengaluru",
+      "revenue": 6796822.0
+    },
+    {
+      "city": "Delhi",
+      "revenue": 6205304.0
+    },
+    {
+      "city": "Mumbai",
+      "revenue": 5423129.5
+    }
+  ],
+  "top3_city_share_pct": 41.48500314853862,
+  "repeat": {
+    "repeat_rate_pct": 61.74706023518118,
+    "avg_orders": 3.359491240700744,
+    "buyers": 4167,
+    "signups": 6000,
+    "signup_to_buyer_pct": 69.45
+  },
+  "delivery": {
+    "avg_days": 4.226608546168959,
+    "return_pct_by_bucket": {
+      "1-3": 8.511472837811336,
+      "4-5": 8.774862109309712,
+      "6-7": 9.928595715742945,
+      "8+": 7.956989247311828
+    }
+  },
+  "top_product_share_pct": 4.7653528182482665,
+  "top10_products_share_pct": 24.772916380722442
+}

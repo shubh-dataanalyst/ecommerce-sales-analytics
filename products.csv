@@ -1,0 +1,221 @@
+product_id,product_name,category,sub_category,mrp,cost_price
+P2000,Electronics Item 1,Electronics,Laptop Accessories,2260,1494.31
+P2001,Fashion Item 2,Fashion,Footwear,740,310.3
+P2002,Home Item 3,Home & Kitchen,Storage,1180,713.21
+P2003,Beauty Item 4,Beauty,Haircare,1740,667.36
+P2004,Grocery Item 5,Grocery,Staples,100,71.61
+P2005,Sports Item 6,Fashion,Outdoor,390,254.87
+P2006,Electronics Item 7,Electronics,Wearables,490,342.42
+P2007,Fashion Item 8,Fashion,Women Clothing,390,197.68
+P2008,Home Item 9,Home & Kitchen,Decor,3930,2149.04
+P2009,Beauty Item 10,Beauty,Haircare,1180,607.49
+P2010,Grocery Item 11,Grocery,Beverages,660,516.27
+P2011,Sports Item 12,Sports,Fitness,940,629.31
+P2012,Electronics Item 13,Electronics,Mobile Accessories,670,463.18
+P2013,Fashion Item 14,Fashion,Women Clothing,310,139.89
+P2014,Home Item 15,Home & Kitchen,Cookware,2370,1179.42
+P2015,Beauty Item 16,Beauty,Skincare,1670,648.39
+P2016,Grocery Item 17,Grocery,Organic,280,216.67
+P2017,Sports Item 18,Sports,Outdoor,560,308.46
+P2018,Electronics Item 19,Electronics,Wearables,3580,2710.12
+P2019,Fashion Item 20,Fashion,Women Clothing,3100,1505.56
+P2020,Home Item 21,Home & Kitchen,Decor,1440,701.92
+P2021,Beauty Item 22,Beauty,Skincare,880,330.17
+P2022,Grocery Item 23,Grocery,Organic,140,104.84
+P2023,Sports Item 24,Sports,Cycling,410,267.19
+P2024,Electronics Item 25,Electronics,Audio,1440,985.24
+P2025,Fashion Item 26,Fashion,Women Clothing,600,297.56
+P2026,Home Item 27,Home & Kitchen,Storage,1030,545.01
+P2027,Beauty Item 28,Beauty,Fragrance,370,143.67
+P2028,Grocery Item 29,Grocery,Snacks,400,289.32
+P2029,Sports Item 30,Sports,Yoga,310,174.2
+P2030,Electronics Item 31,Electronics,Mobile Accessories,2690,1900.8
+P2031,Fashion Item 32,Fashion,Women Clothing,390,211.43
+P2032,Home Item 33,Home & Kitchen,Decor,500,314.38
+P2033,Beauty Item 34,Beauty,Skincare,180,85.7
+P2034,Grocery Item 35,Grocery,Organic,890,666.49
+P2035,Sports Item 36,Sports,Outdoor,2900,1726.94
+P2036,Electronics Item 37,Electronics,Wearables,440,314.3
+P2037,Fashion Item 38,Fashion,Women Clothing,1320,719.87
+P2038,Home Item 39,Home & Kitchen,Storage,1160,725.17
+P2039,Beauty Item 40,Beauty,Haircare,1040,503.85
+P2040,Grocery Item 41,Grocery,Beverages,190,150.61
+P2041,Sports Item 42,Sports,Yoga,1640,874.97
+P2042,Electronics Item 43,Electronics,Laptop Accessories,2120,1400.67
+P2043,Fashion Item 44,Fashion,Men Clothing,2050,1011.75
+P2044,Home Item 45,Home & Kitchen,Appliances,830,438.51
+P2045,Beauty Item 46,Beauty,Fragrance,1260,584.61
+P2046,Grocery Item 47,Grocery,Beverages,240,186.79
+P2047,Sports Item 48,Sports,Yoga,1070,683.66
+P2048,Electronics Item 49,Electronics,Laptop Accessories,430,287.65
+P2049,Fashion Item 50,Fashion,Men Clothing,700,379.34
+P2050,Home Item 51,Home & Kitchen,Decor,1200,749.89
+P2051,Beauty Item 52,Beauty,Makeup,280,138.01
+P2052,Grocery Item 53,Grocery,Beverages,110,84.73
+P2053,Sports Item 54,Sports,Yoga,580,321.65
+P2054,Electronics Item 55,Electronics,Audio,1530,1157.23
+P2055,Fashion Item 56,Fashion,Men Clothing,1180,595.04
+P2056,Home Item 57,Home & Kitchen,Appliances,1280,657.58
+P2057,Beauty Item 58,Beauty,Skincare,450,201.11
+P2058,Grocery Item 59,Grocery,Beverages,120,90.7
+P2059,Sports Item 60,Sports,Yoga,1890,1129.14
+P2060,Electronics Item 61,Electronics,Wearables,510,369.65
+P2061,Fashion Item 62,Fashion,Accessories,980,439.73
+P2062,Home Item 63,Home & Kitchen,Storage,1630,939.45
+P2063,Beauty Item 64,Beauty,Skincare,890,376.56
+P2064,Grocery Item 65,Grocery,Organic,60,46.76
+P2065,Sports Item 66,Sports,Fitness,1810,1225.86
+P2066,Electronics Item 67,Electronics,Wearables,5510,3671.34
+P2067,Fashion Item 68,Fashion,Accessories,540,259.72
+P2068,Home Item 69,Home & Kitchen,Storage,4250,2279.19
+P2069,Beauty Item 70,Home & Kitchen,Haircare,1570,651.88
+P2070,Grocery Item 71,Grocery,Staples,430,302.32
+P2071,Sports Item 72,Sports,Cycling,1470,958.16
+P2072,Electronics Item 73,Electronics,Laptop Accessories,2750,1932.53
+P2073,Fashion Item 74,Fashion,Footwear,900,417.32
+P2074,Home Item 75,Home & Kitchen,Storage,1360,666.34
+P2075,Beauty Item 76,Beauty,Fragrance,450,187.12
+P2076,Grocery Item 77,Grocery,Organic,280,209.7
+P2077,Sports Item 78,Sports,Fitness,2830,1551.89
+P2078,Electronics Item 79,Electronics,Wearables,1810,1215.98
+P2079,Fashion Item 80,Fashion,Accessories,2460,970.29
+P2080,Home Item 81,Home & Kitchen,Appliances,1180,584.62
+P2081,Beauty Item 82,Beauty,Fragrance,870,434.87
+P2082,Grocery Item 83,Grocery,Staples,90,67.75
+P2083,Sports Item 84,Sports,Yoga,1460,782.6
+P2084,Electronics Item 85,Electronics,Mobile Accessories,4390,3316.94
+P2085,Fashion Item 86,Fashion,Men Clothing,1870,964.78
+P2086,Home Item 87,Home & Kitchen,Cookware,4820,2427.68
+P2087,Beauty Item 88,Beauty,Haircare,770,277.65
+P2088,Grocery Item 89,Grocery,Staples,640,476.35
+P2089,Sports Item 90,Sports,Cycling,1550,1042.53
+P2090,Electronics Item 91,Electronics,Laptop Accessories,2310,1586.41
+P2091,Fashion Item 92,Fashion,Accessories,390,193.41
+P2092,Home Item 93,Home & Kitchen,Cookware,1610,807.15
+P2093,Beauty Item 94,Beauty,Makeup,290,103.86
+P2094,Grocery Item 95,Grocery,Staples,360,255.77
+P2095,Sports Item 96,Sports,Cycling,450,228.2
+P2096,Electronics Item 97,Electronics,Audio,1650,1092.45
+P2097,Fashion Item 98,Fashion,Men Clothing,2340,1214.51
+P2098,Home Item 99,Beauty,Decor,290,139.51
+P2099,Beauty Item 100,Beauty,Haircare,190,68.0
+P2100,Grocery Item 101,Grocery,Staples,190,141.05
+P2101,Sports Item 102,Sports,Cycling,1360,908.37
+P2102,Electronics Item 103,Electronics,Audio,3440,2389.86
+P2103,Fashion Item 104,Fashion,Men Clothing,1230,622.57
+P2104,Home Item 105,Home & Kitchen,Decor,290,175.13
+P2105,Beauty Item 106,Beauty,Fragrance,350,169.89
+P2106,Grocery Item 107,Grocery,Organic,770,586.56
+P2107,Sports Item 108,Sports,Cycling,4800,2857.52
+P2108,Electronics Item 109,Electronics,Laptop Accessories,1330,1015.42
+P2109,Fashion Item 110,Fashion,Men Clothing,550,267.26
+P2110,Home Item 111,Home & Kitchen,Decor,820,423.06
+P2111,Beauty Item 112,Beauty,Haircare,500,225.81
+P2112,Grocery Item 113,Grocery,Beverages,130,93.82
+P2113,Sports Item 114,Sports,Yoga,1060,610.62
+P2114,Electronics Item 115,Electronics,Audio,1670,1123.2
+P2115,Fashion Item 116,Fashion,Women Clothing,1950,1045.77
+P2116,Home Item 117,Home & Kitchen,Appliances,990,559.07
+P2117,Beauty Item 118,Beauty,Skincare,780,323.75
+P2118,Grocery Item 119,Grocery,Beverages,90,63.01
+P2119,Sports Item 120,Sports,Fitness,5030,2975.38
+P2120,Electronics Item 121,Electronics,Wearables,800,613.17
+P2121,Fashion Item 122,Fashion,Footwear,2120,944.06
+P2122,Home Item 123,Home & Kitchen,Cookware,950,597.49
+P2123,Beauty Item 124,Beauty,Fragrance,1740,785.83
+P2124,Grocery Item 125,Grocery,Snacks,590,434.5
+P2125,Sports Item 126,Sports,Yoga,2050,1354.24
+P2126,Electronics Item 127,Electronics,Audio,590,408.75
+P2127,Fashion Item 128,Fashion,Accessories,1120,637.5
+P2128,Home Item 129,Home & Kitchen,Appliances,310,178.52
+P2129,Beauty Item 130,Beauty,Makeup,230,120.38
+P2130,Grocery Item 131,Grocery,Snacks,430,337.72
+P2131,Sports Item 132,Sports,Outdoor,3030,1992.06
+P2132,Electronics Item 133,Electronics,Laptop Accessories,1590,1218.93
+P2133,Fashion Item 134,Fashion,Women Clothing,3190,1412.45
+P2134,Home Item 135,Home & Kitchen,Cookware,270,171.66
+P2135,Beauty Item 136,Beauty,Haircare,1860,707.88
+P2136,Grocery Item 137,Grocery,Beverages,320,251.12
+P2137,Sports Item 138,Sports,Cycling,3820,2432.97
+P2138,Electronics Item 139,Electronics,Wearables,1410,1027.32
+P2139,Fashion Item 140,Fashion,Footwear,790,425.02
+P2140,Home Item 141,Home & Kitchen,Appliances,2080,1119.12
+P2141,Beauty Item 142,Beauty,Haircare,590,306.72
+P2142,Grocery Item 143,Grocery,Snacks,210,151.19
+P2143,Sports Item 144,Sports,Yoga,5450,3003.1
+P2144,Electronics Item 145,Electronics,Audio,4500,3262.46
+P2145,Fashion Item 146,Fashion,Men Clothing,3190,1429.63
+P2146,Home Item 147,Home & Kitchen,Decor,4500,2469.81
+P2147,Beauty Item 148,Beauty,Haircare,220,99.1
+P2148,Grocery Item 149,Grocery,Staples,300,212.08
+P2149,Sports Item 150,Sports,Cycling,1510,905.04
+P2150,Electronics Item 151,Electronics,Wearables,440,324.66
+P2151,Fashion Item 152,Fashion,Accessories,2050,973.85
+P2152,Home Item 153,Home & Kitchen,Cookware,3870,2538.14
+P2153,Beauty Item 154,Beauty,Fragrance,1070,564.25
+P2154,Grocery Item 155,Grocery,Beverages,410,324.59
+P2155,Sports Item 156,Sports,Yoga,770,494.2
+P2156,Electronics Item 157,Electronics,Wearables,2830,2060.0
+P2157,Fashion Item 158,Fashion,Men Clothing,2520,1327.47
+P2158,Home Item 159,Home & Kitchen,Decor,1780,979.56
+P2159,Beauty Item 160,Beauty,Skincare,2480,1092.36
+P2160,Grocery Item 161,Grocery,Snacks,100,75.63
+P2161,Sports Item 162,Sports,Yoga,300,187.79
+P2162,Electronics Item 163,Electronics,Mobile Accessories,2120,1476.93
+P2163,Fashion Item 164,Fashion,Women Clothing,850,455.39
+P2164,Home Item 165,Home & Kitchen,Appliances,630,337.85
+P2165,Beauty Item 166,Beauty,Haircare,330,155.2
+P2166,Grocery Item 167,Grocery,Organic,320,238.05
+P2167,Sports Item 168,Sports,Outdoor,2200,1241.45
+P2168,Electronics Item 169,Electronics,Laptop Accessories,420,310.51
+P2169,Fashion Item 170,Fashion,Men Clothing,2570,1349.03
+P2170,Home Item 171,Home & Kitchen,Appliances,690,388.61
+P2171,Beauty Item 172,Beauty,Makeup,1470,665.05
+P2172,Grocery Item 173,Grocery,Staples,130,96.09
+P2173,Sports Item 174,Sports,Yoga,6840,3889.95
+P2174,Electronics Item 175,Electronics,Laptop Accessories,1840,1405.82
+P2175,Fashion Item 176,Fashion,Accessories,1770,968.18
+P2176,Home Item 177,Home & Kitchen,Appliances,1080,603.88
+P2177,Beauty Item 178,Beauty,Skincare,1180,471.92
+P2178,Grocery Item 179,Grocery,Beverages,110,77.11
+P2179,Sports Item 180,Sports,Cycling,690,414.33
+P2180,Electronics Item 181,Electronics,Wearables,6490,4745.78
+P2181,Fashion Item 182,Fashion,Accessories,500,217.6
+P2182,Home Item 183,Home & Kitchen,Storage,1680,1004.11
+P2183,Beauty Item 184,Beauty,Makeup,160,77.41
+P2184,Grocery Item 185,Grocery,Organic,120,94.59
+P2185,Sports Item 186,Sports,Fitness,910,583.05
+P2186,Electronics Item 187,Electronics,Laptop Accessories,600,456.67
+P2187,Fashion Item 188,Fashion,Accessories,380,165.31
+P2188,Home Item 189,Home & Kitchen,Storage,300,195.81
+P2189,Beauty Item 190,Beauty,Haircare,440,185.17
+P2190,Grocery Item 191,Grocery,Beverages,400,307.61
+P2191,Sports Item 192,Sports,Fitness,4000,2600.98
+P2192,Electronics Item 193,Electronics,Wearables,4810,3412.9
+P2193,Fashion Item 194,Fashion,Women Clothing,680,343.99
+P2194,Home Item 195,Home & Kitchen,Appliances,1640,793.21
+P2195,Beauty Item 196,Beauty,Haircare,2120,1036.62
+P2196,Grocery Item 197,Grocery,Organic,80,59.74
+P2197,Sports Item 198,Sports,Cycling,1380,739.7
+P2198,Electronics Item 199,Electronics,Mobile Accessories,1740,1179.72
+P2199,Fashion Item 200,Fashion,Accessories,1770,808.74
+P2200,Home Item 201,Home & Kitchen,Storage,1300,713.5
+P2201,Beauty Item 202,Electronics,Makeup,390,137.89
+P2202,Grocery Item 203,Grocery,Staples,360,267.91
+P2203,Sports Item 204,Sports,Yoga,900,543.82
+P2204,Electronics Item 205,Electronics,Mobile Accessories,740,501.27
+P2205,Fashion Item 206,Fashion,Footwear,2540,1311.97
+P2206,Home Item 207,Home & Kitchen,Appliances,5910,3243.68
+P2207,Beauty Item 208,Beauty,Haircare,2240,893.73
+P2208,Grocery Item 209,Grocery,Staples,750,553.26
+P2209,Sports Item 210,Sports,Fitness,1030,541.16
+P2210,Electronics Item 211,Electronics,Wearables,1840,1278.66
+P2211,Fashion Item 212,Fashion,Men Clothing,840,346.17
+P2212,Home Item 213,Home & Kitchen,Cookware,4970,2990.08
+P2213,Beauty Item 214,Beauty,Skincare,160,80.72
+P2214,Grocery Item 215,Grocery,Staples,580,437.57
+P2215,Sports Item 216,Sports,Outdoor,3450,1853.27
+P2216,Electronics Item 217,Electronics,Mobile Accessories,1240,833.08
+P2217,Fashion Item 218,Fashion,Women Clothing,590,236.03
+P2218,Home Item 219,Home & Kitchen,Appliances,410,197.1
+P2219,Beauty Item 220,Beauty,Makeup,1970,973.64

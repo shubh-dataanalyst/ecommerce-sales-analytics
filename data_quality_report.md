@@ -1,0 +1,40 @@
+# Data Quality Report
+
+| Table | Issue found | Rows affected | Action taken |
+|---|---|---:|---|
+| customers | Exact duplicate rows | 60 | Dropped |
+| customers | Duplicate customer_id | 0 | Kept first |
+| customers | City casing / spaces / alias (Bangalore, Gurugram, Bombay) | 1,207 | strip + title case + alias map |
+| customers | Unmapped city after cleaning | 0 | Should be 0 |
+| customers | Gender variants / missing | 461 | Standardised, missing -> 'Unknown' |
+| customers | Missing acquisition_channel | 108 | -> 'Unknown' |
+| customers | Invalid age (<18 or >80) | 25 | Set to NaN |
+| customers | Missing/invalid age total | 456 | Kept NaN (no imputation), age_group='Unknown' |
+| customers | Unparseable signup_date | 0 | Should be 0 |
+| products | Category casing / trailing spaces | 4 | Mapped to canonical names |
+| products | Missing cost_price | 6 | Imputed = mrp x category median cost/mrp ratio |
+| orders | Exact duplicate rows | 180 | Dropped |
+| orders | Duplicate order_id | 0 | Kept first |
+| orders | Mixed date formats parsed (4 formats) | 16,688 | Parsed via regex-detected formats |
+| orders | Unparseable order_date | 0 | Should be 0 |
+| orders | Status casing / trailing spaces | 2,309 | strip + title case |
+| orders | Missing payment_method | 669 | -> 'Unknown' |
+| orders | Invalid delivery_days (<=0 or >30) | 344 | Set to NaN (excluded from delivery KPIs) |
+| orders | Orphan orders (customer_id not in customers) | 40 | Removed, saved to rejected_*.csv |
+| order_items | Exact duplicate rows | 150 | Dropped |
+| order_items | Duplicate (order_id, product_id) | 0 | Kept first |
+| order_items | Quantity <= 0 | 30 | Removed |
+| order_items | Quantity outliers (>50, fat-finger) | 12 | Removed |
+| order_items | Missing unit_price | 80 | Recomputed = mrp x (1 - discount%) |
+| order_items | Items whose order was removed/missing | 58 | Removed (referential integrity) |
+| order_items | Unknown product_id | 0 | Should be 0 |
+| orders | Orders with no line items | 16 | Removed |
+
+## Row counts: raw vs clean
+
+| Table | Raw | Clean |
+|---|---:|---:|
+| customers | 6,060 | 6,000 |
+| products | 220 | 220 |
+| orders | 16,868 | 16,632 |
+| order_items | 27,969 | 27,719 |

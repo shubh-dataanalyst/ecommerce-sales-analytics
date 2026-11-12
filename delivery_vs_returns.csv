@@ -1,0 +1,5 @@
+delivery_bucket,orders,return_pct
+1-3 days,5099,8.5
+4-5 days,5983,8.8
+6-7 days,2941,9.9
+8+ days,465,8.0

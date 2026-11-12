@@ -1,0 +1,8 @@
+payment_method,orders,cancel_pct,return_pct
+COD,2753,14.6,6.9
+Unknown,667,9.0,9.0
+Net Banking,1100,7.1,10.0
+Credit Card,3157,6.8,7.9
+Wallet,677,6.5,8.3
+UPI,6108,6.5,7.7
+Debit Card,2170,6.0,7.9

@@ -1,0 +1,11 @@
+product_id,product_name,category,revenue,units,margin_pct,revenue_rank
+P2018,Electronics Item 19,Electronics,2116496.0,660,15.5,1
+P2068,Home Item 69,Home & Kitchen,1708925.0,449,40.1,2
+P2131,Sports Item 132,Sports,1216697.0,446,27.0,3
+P2145,Fashion Item 146,Fashion,1043768.0,365,50.0,4
+P2066,Electronics Item 67,Electronics,910803.0,186,25.0,5
+P2086,Home Item 87,Home & Kitchen,901099.0,211,43.2,6
+P2144,Electronics Item 145,Electronics,832275.0,208,18.5,7
+P2143,Sports Item 144,Sports,827855.0,171,38.0,8
+P2173,Sports Item 174,Sports,757188.0,123,36.8,9
+P2119,Sports Item 120,Sports,687601.0,158,31.6,10
